@@ -4,8 +4,8 @@ This github repository contains code and data for our project in the DTU course 
 
 Authors: 
 
-Amanda Sommer,
-Ditte Jepsen,
-Julius Rasmussen,
-Helena Nicolaisen &
-Joachim Andreasen
+Amanda Sommer s183202,
+Ditte Jepsen s180857,
+Julius Rasmussen s184288,
+Helena Nicolaisen s173715 &
+Joachim Andreasen s184289
